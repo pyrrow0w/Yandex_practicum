@@ -4,7 +4,6 @@
 
 |№|Название проекта|Сфера|Описание|Стек|
 |:-----:|-----|:-----:|-----|:-----:|
-|1|[Итоговый проект: Формирование модели монетизации мобильного приложения](https://github.com/pyrrow0w/Yandex_practicum/tree/main/Monetization%20model)|Мобильное приложение|Анализ продуктовых и маркетинговых метрик, проверка гипотез, предложение модели монетизации и расчет прогнозных LTV и ROMI |`Pandas` `Seaborn` `Matplotlib` `Numpy` `SciPy`|
-|2|[Прогнозирование оттока клиентов фитнес-центра](https://github.com/pyrrow0w/Yandex_practicum/tree/main/Machine%20learning)|Услуги|EDA, построение модели бинарной классификации по признаку оттока, кластеризация клиентов|`Pandas` `Seaborn` `Matplotlib` `Sklearn` `SciPy`|
-|3|[Исследование надёжности заёмщиков банка]()|Финансы|EDA, построение модели бинарной классификации по признаку оттока, кластеризация клиентов|`Pandas` `Seaborn` `Matplotlib` `Sklearn` `SciPy`|
+|1|[Итоговый проект: Формирование модели монетизации мобильного приложения](https://github.com/pyrrow0w/Yandex_practicum/tree/main/Monetization%20model)|Мобильное приложение, Gamedev|Анализ продуктовых и маркетинговых метрик, проверка статистических гипотез, расчет модели монетизации, продуктовые метрики, событийная аналитика |`Pandas` `Seaborn` `Matplotlib` `Numpy` `SciPy`|
+|2|[Прогнозирование оттока клиентов фитнес-центра](https://github.com/pyrrow0w/Yandex_practicum/tree/main/Machine%20learning)|Бизнес, оффлайн|EDA, машинное обучение, кластеризация, классификация|`Pandas` `Seaborn` `Matplotlib` `Sklearn` `SciPy`|
 
