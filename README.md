@@ -2,7 +2,7 @@
   &nbsp;Проекты по анализу данных&nbsp;
 </h1>
 
-|№|Название проекта|Сфера|Описание|Стек|
+|№|Название проекта|Сфера|Ключевые слова проекта|Стек|
 |:-----:|-----|:-----:|-----|:-----:|
 |1|[Итоговый проект: Формирование модели монетизации мобильного приложения](https://github.com/pyrrow0w/Yandex_practicum/tree/main/Monetization%20model)|Мобильное приложение, Gamedev|Анализ продуктовых и маркетинговых метрик, проверка статистических гипотез, расчет модели монетизации, продуктовые метрики, событийная аналитика |`Pandas` `Seaborn` `Matplotlib` `Numpy` `SciPy`|
 |2|[Прогнозирование оттока клиентов фитнес-центра](https://github.com/pyrrow0w/Yandex_practicum/tree/main/Fitness%20customers%20ML%20churn%20model)|Бизнес, оффлайн|KMeans, Machine Learning, дендрограмма, RandomForestClassifier, LogisticRegression|`Pandas` `Seaborn` `Matplotlib` `Sklearn` `SciPy`|
